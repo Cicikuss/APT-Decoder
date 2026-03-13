@@ -137,4 +137,4 @@ Pipeline sırası:
 
 ## Referans
 
-Algoritmik yaklaşım, Rust tabanlı referans projeden esinlenmiştir: [noaa-apt/noaa-apt](noaa-apt/noaa-apt/README.md)
+Algoritmik yaklaşım, Rust tabanlı referans projeden esinlenmiştir: [noaa-apt/noaa-apt](https://github.com/martinber/noaa-apt?tab=readme-ov-file)
